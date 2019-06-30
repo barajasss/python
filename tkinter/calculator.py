@@ -7,7 +7,6 @@ from tkinter import *
 
 root = Tk()
 root.geometry("500x250+400+200")
-root.iconbitmap('youtube.png')
 root.title("Python GUI Calculator")
 
 frame1 = Frame(root)
